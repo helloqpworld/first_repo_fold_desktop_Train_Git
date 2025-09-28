@@ -1,0 +1,6 @@
+def start_cool_code(a, b, c, *):
+	something1
+	something2
+	something3
+
+retrun 0
