@@ -1,5 +1,5 @@
 1. First string
-import Text_file_2
+from Text_file_2 import start_cool_code # was rewrating in 3rd commit
 
 def main():
 	if __name__ == 'main':
